@@ -2029,11 +2029,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ann\\source\\repos\\LearningPortal\\LearningPortal\\LearningPortal.csproj",
+      "projectUniqueName": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\LearningPortal.csproj",
       "projectName": "LearningPortal",
-      "projectPath": "C:\\Users\\ann\\source\\repos\\LearningPortal\\LearningPortal\\LearningPortal.csproj",
+      "projectPath": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\LearningPortal.csproj",
       "packagesPath": "C:\\Users\\ann\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ann\\source\\repos\\LearningPortal\\LearningPortal\\obj\\",
+      "outputPath": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ann\\AppData\\Roaming\\NuGet\\NuGet.Config",

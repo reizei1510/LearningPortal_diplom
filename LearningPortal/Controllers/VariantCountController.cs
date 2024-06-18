@@ -15,6 +15,7 @@ namespace LearningPortal.Controllers
             _variantCountService = variantCountService;
         }
 
+        [HttpGet]
         public async Task<IActionResult> Get()
         {
             User? user = HttpContext.Items["user"] as User;

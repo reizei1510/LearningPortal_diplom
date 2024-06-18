@@ -16,6 +16,7 @@ namespace LearningPortal.Controllers
             _jwtService = jwtService;
         }
 
+        [HttpPost]
         public async Task<IActionResult> Post([FromBody] TokenModel tokens)
         {
             User? user = HttpContext.Items["user"] as User;

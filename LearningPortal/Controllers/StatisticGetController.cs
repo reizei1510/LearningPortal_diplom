@@ -17,6 +17,7 @@ namespace LearningPortal.Controllers
             _statisticService = statisticService;
         }
 
+        [HttpPost]
         [Authorize]
         public async Task<IActionResult> Post([FromBody] DateModel date)
         {

@@ -18,6 +18,7 @@ namespace LearningPortal.Controllers
             _jwtService = jwtService;
         }
 
+        [HttpPost]
         public async Task<IActionResult> Post([FromBody] LoginModel loginData)
         {
             User? user = await _userService.GetUserByName(loginData.Login);

@@ -7,6 +7,7 @@ namespace LearningPortal.Controllers
     [Route("statistic")]
     public class StatisticShowController : ControllerBase
     {
+        [HttpGet]
         public async Task<IActionResult> Get()
         {
             User? user = HttpContext.Items["user"] as User;

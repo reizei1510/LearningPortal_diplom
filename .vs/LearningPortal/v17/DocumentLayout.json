@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ann\\source\\repos\\LearningPortal\\",
+  "WorkspaceRootPath": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|c:\\users\\ann\\source\\repos\\learningportal\\learningportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|solutionrelative:learningportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|c:\\users\\ann\\source\\repos\\learningportal_diplom\\learningportal\\controllers\\variantgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|solutionrelative:learningportal\\controllers\\variantgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|c:\\users\\ann\\source\\repos\\learningportal\\learningportal\\wwwroot\\scripts\\token.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|solutionrelative:learningportal\\wwwroot\\scripts\\token.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|c:\\users\\ann\\source\\repos\\learningportal_diplom\\learningportal\\controllers\\variantcountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|solutionrelative:learningportal\\controllers\\variantcountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|c:\\users\\ann\\source\\repos\\learningportal\\learningportal\\controllers\\tokenrefreshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|c:\\users\\ann\\source\\repos\\learningportal_diplom\\learningportal\\controllers\\tokenrefreshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|solutionrelative:learningportal\\controllers\\tokenrefreshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|c:\\users\\ann\\source\\repos\\learningportal\\learningportal\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|solutionrelative:learningportal\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|c:\\users\\ann\\source\\repos\\learningportal_diplom\\learningportal\\controllers\\statisticshowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|solutionrelative:learningportal\\controllers\\statisticshowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|c:\\users\\ann\\source\\repos\\learningportal_diplom\\learningportal\\controllers\\statisticgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|solutionrelative:learningportal\\controllers\\statisticgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|c:\\users\\ann\\source\\repos\\learningportal_diplom\\learningportal\\controllers\\resultsshowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|solutionrelative:learningportal\\controllers\\resultsshowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|c:\\users\\ann\\source\\repos\\learningportal_diplom\\learningportal\\controllers\\resultssavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|solutionrelative:learningportal\\controllers\\resultssavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|c:\\users\\ann\\source\\repos\\learningportal_diplom\\learningportal\\controllers\\resultsgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645F6ACA-D8ED-46A2-8BAD-126894CAC4D4}|LearningPortal\\LearningPortal.csproj|solutionrelative:learningportal\\controllers\\resultsgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "token.js",
-              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\LearningPortal\\LearningPortal\\wwwroot\\scripts\\token.js",
-              "RelativeDocumentMoniker": "LearningPortal\\wwwroot\\scripts\\token.js",
-              "ToolTip": "C:\\Users\\ann\\source\\repos\\LearningPortal\\LearningPortal\\wwwroot\\scripts\\token.js",
-              "RelativeToolTip": "LearningPortal\\wwwroot\\scripts\\token.js",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-18T14:48:33.315Z"
+              "DocumentIndex": 0,
+              "Title": "VariantGetController.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\VariantGetController.cs",
+              "RelativeDocumentMoniker": "LearningPortal\\Controllers\\VariantGetController.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\VariantGetController.cs",
+              "RelativeToolTip": "LearningPortal\\Controllers\\VariantGetController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:26:35.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenModel.cs",
-              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\LearningPortal\\LearningPortal\\Models\\TokenModel.cs",
-              "RelativeDocumentMoniker": "LearningPortal\\Models\\TokenModel.cs",
-              "ToolTip": "C:\\Users\\ann\\source\\repos\\LearningPortal\\LearningPortal\\Models\\TokenModel.cs",
-              "RelativeToolTip": "LearningPortal\\Models\\TokenModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "VariantCountController.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\VariantCountController.cs",
+              "RelativeDocumentMoniker": "LearningPortal\\Controllers\\VariantCountController.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\VariantCountController.cs",
+              "RelativeToolTip": "LearningPortal\\Controllers\\VariantCountController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T14:47:38.369Z"
+              "WhenOpened": "2024-06-18T16:26:26.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TokenRefreshController.cs",
-              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\LearningPortal\\LearningPortal\\Controllers\\TokenRefreshController.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\TokenRefreshController.cs",
               "RelativeDocumentMoniker": "LearningPortal\\Controllers\\TokenRefreshController.cs",
-              "ToolTip": "C:\\Users\\ann\\source\\repos\\LearningPortal\\LearningPortal\\Controllers\\TokenRefreshController.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\TokenRefreshController.cs",
               "RelativeToolTip": "LearningPortal\\Controllers\\TokenRefreshController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T14:41:14.345Z"
+              "WhenOpened": "2024-06-18T16:26:16.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\LearningPortal\\LearningPortal\\Program.cs",
-              "RelativeDocumentMoniker": "LearningPortal\\Program.cs",
-              "ToolTip": "C:\\Users\\ann\\source\\repos\\LearningPortal\\LearningPortal\\Program.cs",
-              "RelativeToolTip": "LearningPortal\\Program.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAEwAAABBAAAA",
+              "DocumentIndex": 3,
+              "Title": "StatisticShowController.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\StatisticShowController.cs",
+              "RelativeDocumentMoniker": "LearningPortal\\Controllers\\StatisticShowController.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\StatisticShowController.cs",
+              "RelativeToolTip": "LearningPortal\\Controllers\\StatisticShowController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T21:50:01.303Z",
+              "WhenOpened": "2024-06-18T16:26:06.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatisticGetController.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\StatisticGetController.cs",
+              "RelativeDocumentMoniker": "LearningPortal\\Controllers\\StatisticGetController.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\StatisticGetController.cs",
+              "RelativeToolTip": "LearningPortal\\Controllers\\StatisticGetController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:25:51.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultsShowController.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\ResultsShowController.cs",
+              "RelativeDocumentMoniker": "LearningPortal\\Controllers\\ResultsShowController.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\ResultsShowController.cs",
+              "RelativeToolTip": "LearningPortal\\Controllers\\ResultsShowController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:25:47.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultsSaveController.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\ResultsSaveController.cs",
+              "RelativeDocumentMoniker": "LearningPortal\\Controllers\\ResultsSaveController.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\ResultsSaveController.cs",
+              "RelativeToolTip": "LearningPortal\\Controllers\\ResultsSaveController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:25:44.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResultsGetController.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\ResultsGetController.cs",
+              "RelativeDocumentMoniker": "LearningPortal\\Controllers\\ResultsGetController.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\LearningPortal_diplom\\LearningPortal\\Controllers\\ResultsGetController.cs",
+              "RelativeToolTip": "LearningPortal\\Controllers\\ResultsGetController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:25:39.228Z",
               "EditorCaption": ""
             }
           ]
