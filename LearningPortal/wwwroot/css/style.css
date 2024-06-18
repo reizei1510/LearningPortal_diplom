@@ -1,0 +1,38 @@
+﻿header {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#login, #password {
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+input {
+    margin-right: 10px;
+    margin-top: 10px;
+    max-width: 140px;
+}
+
+.context {
+    display: flex;
+}
+
+.column {
+    flex: 1;
+    padding: 20px;
+}
+
+.history {
+    max-width: 15%;
+}
+
+.pie {
+    max-width: 40%;
+}
+
+th, td {
+    padding: 5px;
+    border: 1px solid black;
+}

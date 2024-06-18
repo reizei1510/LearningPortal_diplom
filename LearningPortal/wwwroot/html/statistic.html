@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="../css/style.css">
+    <meta charset="utf-8">
+    <title>Статистика</title>
+</head>
+<body>
+    <header>
+        <div id="login-false">
+            Войдите, чтобы иметь возможность синхронизировать результаты и просматривать статистику<br />
+            <label for="login">Логин:</label>
+            <input type="text" id="login" name="login" />
+            <label for="password">Пароль:</label>
+            <input type="password" id="password" name="password" />
+            <button id="btn-in">Войти</button>
+            <span id="signin-error"></span>
+        </div>
+        <div id="login-true">
+            <span id="welcome"></span>
+            <button id="btn-out">Выйти</button>
+        </div>
+    </header>
+    <div class="context">
+        <div class="column history">
+            <br />История решений:<br /><br />
+            <a href="/">Текущий вариант<br /></a>
+            <div id="variants-container"></div>
+        </div>
+        <div class="column stat">
+            <h1>По текущим результатам ваш средний балл <span id="grade"></span>/29</h1>
+            <p>
+                Статистика решенных задач за
+                <input type="date" id="date" value="2024-05-14" onchange="updateStatistic()" />
+            </p>
+            <p>Решено <span id="variantsNum"></span> варианта(-ов)</p>
+            <div id="table-container"></div>
+            <h3>Решенные задачи по уровню сложности и типам:</h3>
+            <div class="context">
+                <div class="column canvas">
+                    <canvas id="statistic-canvas"></canvas>
+                </div>
+                <div class="column pie">
+                    <canvas id="statistic-pie"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="../scripts/login.js"></script>
+    <script type="module" src="../scripts/variantsList.js"></script>
+    <script type="module" src="../scripts/statistic.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+</body>
+</html>
