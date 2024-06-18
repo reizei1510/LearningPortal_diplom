@@ -37,7 +37,7 @@ function countAvgGrade(statistic) {
     const data = Array(statistic.exercisesCount).fill(0);
     Object.keys(statistic.solvingsCount).forEach(difficult => {
         statistic.solvingsCount[difficult].forEach((count, index) => {
-            data[i] += count;
+            data[index] += count;
         });
     });
 
